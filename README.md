@@ -48,7 +48,7 @@ Before running this project, make sure your system meets the following requireme
 ```bash
 https://github.com/mahmud-r-farhan/TalkLLM.git
 cd TalkLLM
-npm install i
+npm install
 
 ```
 
