@@ -4,6 +4,8 @@ Welcome to **TalkLLM**, a lightweight and modern chat interface powered by [MLC 
 
 Built using **React**, this app uses the **Llama 3 model** locally for a private and blazing-fast AI assistant experience.
 
+![screenshot](https://ik.imagekit.io/codestation/8zmdmb4rt3w0gnz44wut.png?updatedAt=1755272971239)
+
 ---
 
 ## 🚀 Features
@@ -18,7 +20,7 @@ Built using **React**, this app uses the **Llama 3 model** locally for a private
 
 ## 📸 Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](https://ik.imagekit.io/codestation/Screenshot%202025-08-15%20214731.png?updatedAt=1755272901381)
 
 ---
 
